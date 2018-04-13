@@ -9,7 +9,7 @@
 
 ### A not so simple problem
 
-Now we know a little bit about plotting data.  And we have some functions, like the `trace_values`, `layout`, and `plot` functions to help us do so.  You can [view them here](https://github.com/learn-co-curriculum/single-variable-regression/blob/master/lib/graph.py).
+Now we know a bit about plotting data and we have written some functions, like the `trace_values`, `layout`, and `plot`, to help us do so.  You can [view them here](https://github.com/learn-co-curriculum/single-variable-regression/blob/master/lib/graph.py).
 
 ### The benefit of a buck
 
@@ -109,7 +109,7 @@ Progress! We multiplied each $x$ value by 3 so that our function's outputs corre
 
 ### The Slope Variable 
 
-By multiplying $x$ by 3, we just altered the **slope variable**.  The slope variable changes the inclination of the line on our graph.  Slope generally is represented by $m$ like so:
+By multiplying $x$ by 3, we just altered the **slope variable**.  The slope variable changes the inclination of the line in our graph.  Slope generally is represented by $m$ like so:
 
 $y = mx$ 
 
