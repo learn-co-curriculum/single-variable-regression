@@ -9,7 +9,7 @@
 
 ### A not so simple problem
 
-Now we know a bit about plotting data and we have written some functions, like the `trace_values`, `layout`, and `plot`, to help us do so.  You can [view them here](https://github.com/learn-co-curriculum/single-variable-regression/blob/master/lib/graph.py).
+Now we know a bit about plotting data and we have written some functions, like `trace_values`, `layout`, and `plot`, to help us do so.  You can [view them here](https://github.com/learn-co-curriculum/single-variable-regression/blob/master/lib/graph.py).
 
 ### The benefit of a buck
 
